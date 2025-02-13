@@ -14,6 +14,8 @@ nav_order: 1
 
 <div class="publications">
 
+The (α-β) means that the authors are sorted in alphabetical order.
+
 {% bibliography %}
 
 </div>

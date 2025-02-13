@@ -17,4 +17,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I'm Heyang Shang.
+I am Heyang Shang, a third-year undergraduate student majoring in Computer Science at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
+
+I am interested in the intersection of computer science and economics.
