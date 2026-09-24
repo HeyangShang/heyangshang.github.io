@@ -48,6 +48,9 @@ ninja.data = [{
     },{id: "news-this-website-is-created",
           title: 'This website is created!',
           description: "",
+          section: "News",},{id: "news-our-paper-bayesian-conversations-has-been-accepted-to-wine-2026",
+          title: 'Our paper, “Bayesian Conversations,” has been accepted to WINE 2026!',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
