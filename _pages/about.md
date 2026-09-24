@@ -5,10 +5,10 @@ permalink: /
 
 profile:
   align: right
-  image: prof_big.jpg
+  image: prof.jpg
   image_circular: false # crops the image to make it circular
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -17,6 +17,8 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am Heyang Shang, a third-year undergraduate student majoring in Computer Science at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
+I am Heyang Shang, a first-year PhD student in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Jing Chen](https://theory.cs.tsinghua.edu.cn/author/jing-chen-%E9%99%88%E5%A9%A7/).
 
-I am interested in the intersection of computer science and economics.
+Previously, I graduated from the [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University, where I was advised by [Prof. Shuran Zheng](https://sites.google.com/view/shuran-zheng).
+
+I am interested in the intersection of theoretical computer science and economics. Recently, I have become interested in the economics of AI.
