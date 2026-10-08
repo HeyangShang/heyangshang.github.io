@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, "Bayesian Conversations," has been accepted to WINE 2026!
+Our paper, "[Bayesian Conversations]({{ '/publications/' | relative_url }}#leme2023bayesianconversations)," has been accepted to WINE 2026!
