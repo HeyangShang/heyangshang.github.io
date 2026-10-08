@@ -51,6 +51,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-bayesian-conversations-has-been-accepted-to-wine-2026",
           title: 'Our paper, “Bayesian Conversations,” has been accepted to WINE 2026!',
           description: "",
+          section: "News",},{id: "news-an-ai-assisted-manuscript-an-improved-upper-bound-for-the-random-offerer-mechanism-in-bilateral-trade-via-recursive-hard-instances-is-now-available-on-arxiv",
+          title: 'An AI-assisted manuscript, “An Improved Upper Bound for the Random-Offerer Mechanism in Bilateral...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
